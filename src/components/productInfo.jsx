@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { useCart } from '../contexts/cartContext';
+import { useCart } from '../contexts/CartContext';
 import { FaStar } from 'react-icons/fa';
 
 const ProductInfo = ({ product }) => {

@@ -1,5 +1,5 @@
 import { FiShoppingCart } from 'react-icons/fi';
-import { useCart } from '../contexts/cartContext';
+import { useCart } from '../contexts/CartContext';
 import { useNavigate } from 'react-router-dom';
 
 const CartIcon = () => {
