@@ -2,6 +2,15 @@
 
 This is a comprehensive e-commerce application built with React, utilizing React Router for client-side routing, and Tailwind CSS for styling. The application features a cart system, product listings, and a home page with a hero section. It is designed to provide a seamless user experience, with a focus on performance, scalability, and maintainability.
 
+
+## 📸 Screenshots
+
+<img width="1895" height="795" alt="image" src="https://github.com/user-attachments/assets/8a7441e7-06f7-49c4-9174-1489bab37183" />
+
+<img width="1893" height="910" alt="image" src="https://github.com/user-attachments/assets/e7249f08-75af-4c0d-aa97-3416ec322e24" />
+
+<img width="1900" height="907" alt="image" src="https://github.com/user-attachments/assets/2abb8ee2-6bde-45e0-a461-e891004abbfb" />
+
 ## 🚀 Features
 
 * **Cart System**: A fully functional cart system, allowing users to add, remove, and update products in their cart.
@@ -71,14 +80,6 @@ This will start the development server, and the application will be available at
 ├── vite.config.js
 ├── package.json
 ```
-
-## 📸 Screenshots
-
-<img width="1895" height="795" alt="image" src="https://github.com/user-attachments/assets/8a7441e7-06f7-49c4-9174-1489bab37183" />
-
-<img width="1893" height="910" alt="image" src="https://github.com/user-attachments/assets/e7249f08-75af-4c0d-aa97-3416ec322e24" />
-
-<img width="1900" height="907" alt="image" src="https://github.com/user-attachments/assets/2abb8ee2-6bde-45e0-a461-e891004abbfb" />
 
 
 ## 🤝 Contributing
