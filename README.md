@@ -49,36 +49,42 @@ This will start the development server, and the application will be available at
 .
 ├── public
 ├── src
-│   ├── App.jsx
-│   ├── main.jsx
+│   ├── assets
+│   ├── components
+│   │   ├── AbaProdutos
+│   │   │   ├── ProductCardList.jsx
+│   │   ├── HomePage
+│   │   │   ├── ProductCard.jsx
+│   │   ├── mainNav.jsx
 │   ├── contexts
 │   │   ├── CartContext.jsx
-│   ├── components
-│   │   ├── Header.jsx
-│   │   ├── Footer.jsx
-│   ├── pages
-│   │   ├── layout.jsx
-│   │   ├── homePage.jsx
-│   ├── services
-│   │   ├── api.js
 │   ├── data
 │   │   ├── products.js
-│   ├── utils
-│   │   ├── ...
+│   ├── pages
+│   │   ├── cadastro.jsx
+│   │   ├── completarCadastro.jsx
+│   ├── services
+│   │   ├── api.js
+│   ├── App.jsx
+│   ├── index.css
+│   ├── main.jsx
 ├── vite.config.js
 ├── package.json
 ```
 
 ## 📸 Screenshots
 
+<img width="1895" height="795" alt="image" src="https://github.com/user-attachments/assets/8a7441e7-06f7-49c4-9174-1489bab37183" />
+
+<img width="1893" height="910" alt="image" src="https://github.com/user-attachments/assets/e7249f08-75af-4c0d-aa97-3416ec322e24" />
+
+<img width="1900" height="907" alt="image" src="https://github.com/user-attachments/assets/2abb8ee2-6bde-45e0-a461-e891004abbfb" />
+
+
 ## 🤝 Contributing
 
 To contribute to this project, please fork the repository and submit a pull request. Make sure to include a detailed description of the changes made and the reasoning behind them.
 
-## 📝 License
-
-This project is licensed under the MIT License.
-
 ## 📬 Contact
 
-For any questions or concerns, please contact us at [support@example.com](mailto:support@example.com).
+For any questions or concerns, please contact us at christianximenessq@gmail.com.
