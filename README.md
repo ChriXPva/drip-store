@@ -88,4 +88,4 @@ To contribute to this project, please fork the repository and submit a pull requ
 
 ## 📬 Contact
 
-For any questions or concerns, please contact us at christianximenessq@gmail.com.
+For any questions or concerns, please contact me at christianximenessq@gmail.com.
