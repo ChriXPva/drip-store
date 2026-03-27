@@ -22,7 +22,6 @@ This is a comprehensive e-commerce application built with React, utilizing React
 ## 🛠️ Tech Stack
 
 * **Frontend**: React, React Router, Tailwind CSS
-* **Backend**: Not specified (API endpoints not provided)
 * **Build Tool**: Vite
 * **Dependencies**:
   * `axios` for making HTTP requests
